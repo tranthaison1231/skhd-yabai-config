@@ -22,7 +22,7 @@ $ ln -s "${HOME}/.config/chunkwm/chunkwm/skhdrc" "${HOME}/.skhdrc"
 $ rm -f "${HOME}"/.{yabai,skhd}rc
 
 # Install configs
-$ git clone https://github.com/Julian-Heng/chunkwm-yabai-config.git "${HOME}"/.config/yabai
+$ git clone https://github.com/tranthaison1231/skhd-yabai-config "${HOME}"/.config/yabai
 $ ln -s "${HOME}/.config/yabai/yabai/yabairc" "${HOME}/.yabairc"
 $ ln -s "${HOME}/.config/yabai/yabai/skhdrc" "${HOME}/.skhdrc"
 ```
