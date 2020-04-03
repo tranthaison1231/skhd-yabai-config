@@ -2,10 +2,10 @@
 alt - f         : yabai -m window --toggle zoom-fullscreen
 
 # Navigation
-shift - h : yabai -m window --focus west
-shift - j : yabai -m window --focus south
-shift - k : yabai -m window --focus north
-shift - l : yabai -m window --focus east
+ctrl - h : yabai -m window --focus west
+ctrl - j : yabai -m window --focus south
+ctrl - k : yabai -m window --focus north
+ctrl - l : yabai -m window --focus east
 
 # Moving windows
 shift + cmd - h : yabai -m window --warp west
