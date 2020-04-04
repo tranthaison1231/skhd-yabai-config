@@ -5,17 +5,6 @@ See my [dotfiles](https://gitlab.com/julian-heng/dotfiles.git) repo for my other
 
 NOTE: yabai requires System Integrity Protection to be disabled to work properly. See [here](https://github.com/koekeishiya/yabai/wiki/Disabling-System-Integrity-Protection) for more information.
 
-## Installing for chunkwm
-```sh
-# Remove previous links
-$ rm -f "${HOME}"/.{chunkwm,skhd}rc
-
-# Install configs
-$ git clone https://github.com/Julian-Heng/chunkwm-yabai-config.git "${HOME}"/.config/chunkwm
-$ ln -s "${HOME}/.config/chunkwm/chunkwm/chunkwmrc" "${HOME}/.chunkwmrc"
-$ ln -s "${HOME}/.config/chunkwm/chunkwm/skhdrc" "${HOME}/.skhdrc"
-```
-
 ## Installing for yabai
 ```sh
 # Remove previous links
