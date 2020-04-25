@@ -39,12 +39,9 @@ shift + alt - 6 : yabai -m space --move 6
 alt - r : yabai -m space --rotate 90
 
 # Focus Space
-<<<<<<< HEAD
-=======
 alt + cmd - tab : yabai -m space --focus recent
 alt + cmd - h : yabai -m space --focus prev
 alt + cmd - l : yabai -m space --focus next
->>>>>>> e97db6b85e8e967a6193e9e8607dc131609d7695
 
 # Resize windows
 shift + alt - h : \
