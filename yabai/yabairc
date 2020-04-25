@@ -6,7 +6,7 @@ gaps_top="0"
 gaps_bottom="0"
 gaps_left="0"
 gaps_right="0"
-gaps_inner="4"
+gaps_inner="1"
 
 normal_border_color="010101"
 focused_border_color="808080"
